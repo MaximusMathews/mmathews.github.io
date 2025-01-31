@@ -32,7 +32,7 @@ _Italic Text_
 
 ## External Links
 
-[example link to idealab](https://idealab.asu.edu)
+To view my datasheets, go to [Datasheets](mmathews_datasheet.md)
 
 
 ## References
